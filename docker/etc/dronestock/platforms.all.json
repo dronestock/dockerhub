@@ -1,0 +1,8 @@
+[{
+  "arch": "amd64"
+},{
+  "arch": "arm64"
+}, {
+  "arch": "arm",
+  "variant": "v7"
+}]

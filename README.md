@@ -1,4 +1,4 @@
-# 项目
+# Dockerhub
 
 ![仓库大小](https://img.shields.io/github/repo-size/pangum/pangu)
 ![Docker镜像版本](https://img.shields.io/docker/v/storezhang/ddns)
@@ -9,7 +9,7 @@
 ![最佳语言](https://img.shields.io/github/languages/top/pangum/pangu)
 ![星星个数](https://img.shields.io/github/stars/pangum/pangu?style=social)
 
-项目介绍
+基于Docker插件的衍生插件，统一管理镜像上传
 
 ## 捐助
 
@@ -19,4 +19,4 @@
 ## 感谢Jetbrains
 
 本项目通过`Jetbrains开源许可IDE`编写源代码，特此感谢
-[![Jetbrains图标](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png)](https://www.jetbrains.com/?from=pangum/pangu)
+[![Jetbrains图标](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/?from=pangum/pangu)
